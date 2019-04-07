@@ -140,3 +140,5 @@ Pin reassigned based on the type of board used: NodeMCU ESP8266
 const int SDA_PIN = 4; //Pin labelled as D2
 const int SCL_PIN = 14; //Pin labelled as D5
 ```
+Reference image
+![NodeMCU](https://pradeepsinghblog.files.wordpress.com/2016/04/nodemcu_pins.png?w=616)
