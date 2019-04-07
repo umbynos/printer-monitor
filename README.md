@@ -131,3 +131,12 @@ Thanks for your contribution.
 ![Printer Monitor Temps](/images/temperatures.jpg)  
 ![Printer Monitor Time Remaining](/images/time_remaining.jpg)  
 ![Printer Monitor Printing Time](/images/printing_time.jpg)
+
+## Changes made by me
+
+Pin reassigned based on the type of board used: NodeMCU ESP8266
+
+```
+const int SDA_PIN = 4; //Pin labelled as D2
+const int SCL_PIN = 14; //Pin labelled as D5
+```
